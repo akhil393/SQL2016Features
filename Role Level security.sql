@@ -1,4 +1,4 @@
-
+-- Goal restrict users to only see the sales they contributed
 
 Use AdventureWorks2014
 
